@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ChooseModel</class>
+ <widget class="QDialog" name="ChooseModel">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>200</width>
+    <height>148</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>模式选择</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QPushButton" name="singleButton">
+     <property name="text">
+      <string>单人模式</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="doubleButton">
+     <property name="text">
+      <string>双人模式</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="returnButton">
+     <property name="text">
+      <string>返回</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

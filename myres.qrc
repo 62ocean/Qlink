@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/open.jpg</file>
+        <file>res/play1.jpg</file>
+        <file>res/play2.jpg</file>
+        <file>res/role1.png</file>
+        <file>res/role2.png</file>
+        <file>res/role3.png</file>
+        <file>res/+1s.png</file>
+        <file>res/flash.png</file>
+        <file>res/hint.png</file>
+        <file>res/shuffle.png</file>
+        <file>res/dizzy.png</file>
+        <file>res/freeze.png</file>
+        <file>res/ice.png</file>
+        <file>res/role4.png</file>
+    </qresource>
+</RCC>
